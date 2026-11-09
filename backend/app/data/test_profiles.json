@@ -1,0 +1,42 @@
+[
+  {
+    "user_id": "profile-anna",
+    "name": "Анна (Начинающий предприниматель)",
+    "stage": "idea_and_launch",
+    "domain": "horeca",
+    "current_task": "Хочу открыть свою первую кофейню, не знаю как зарегистрировать бизнес, какую систему налогов выбрать и какие проверки ждут от СЭС и Роспотребнадзора",
+    "experience_years": 0.0,
+    "view_history": [],
+    "completed_materials": []
+  },
+  {
+    "user_id": "profile-ivan",
+    "name": "Иван (Владелец микробизнеса / Автосервис)",
+    "stage": "early_stage",
+    "domain": "services",
+    "current_task": "У меня действующий автосервис. Заказы есть, но в конце месяца на счете ноль и не хватает на зарплату механикам и запчасти. Постоянный кассовый разрыв, нужен простой учет и привлечение новых клиентов без слива бюджета",
+    "experience_years": 1.5,
+    "view_history": ["mat-001", "mat-002"],
+    "completed_materials": ["mat-001"]
+  },
+  {
+    "user_id": "profile-dmitry",
+    "name": "Дмитрий (Селлер на маркетплейсах / Масштабирование)",
+    "stage": "growth_and_scaling",
+    "domain": "ecommerce",
+    "current_task": "Продаю одежду на Wildberries, оборот вырос до 3.5 млн руб в месяц. Работаю по 15 часов в сутки, сам заказываю, упаковываю и вожу. Хочу нанять сотрудников, выйти из операционки, посчитать точную прибыль и найти фабрику в Китае",
+    "experience_years": 2.5,
+    "view_history": ["mat-001", "mat-013", "mat-014"],
+    "completed_materials": ["mat-013"]
+  },
+  {
+    "user_id": "profile-cold-start",
+    "name": "Новый пользователь (Холодный старт)",
+    "stage": null,
+    "domain": null,
+    "current_task": "",
+    "experience_years": 0.0,
+    "view_history": [],
+    "completed_materials": []
+  }
+]
